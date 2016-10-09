@@ -1,0 +1,176 @@
+
+
+/* Put your custom styles here */
+
+.font-white
+{
+    color: white;
+    text-transform: uppercase;
+}
+
+.font-footer
+{
+    color: #84DCCF;
+}
+
+.float-center
+{
+    float: none;
+}
+
+.some-work
+{
+    margin-top: 40px;
+}
+
+.max-width-pricing
+{
+    max-width: 300px;
+}
+
+.max-width-fuck
+{
+    max-width: 50%;
+}
+
+.row-background-color
+{
+    background-color: rgba(38, 166, 154, 0.6);
+    border-radius: 10px;
+    padding-top: 20px;
+}
+
+
+.line-break
+{
+border-top-color: #84DCCF;
+border-top-style: solid;
+border-top-width: 2px;
+
+
+
+}
+
+
+.hr-alt
+{
+
+background-color: #84DCCF;
+height: 4px;
+width: 90%;
+margin:0 auto;"
+}
+
+.hr-alt2
+{
+
+background:none;
+height: 60px;
+width: 100%;
+margin:0 auto;
+}
+
+.hr-alt3
+{
+
+background-color: #ee6e73;
+height: 2px;
+width: 60%;
+margin:0 auto;
+position: relative;
+top: 50%;
+
+
+}
+
+.content-1-1-bg
+{
+	background: url("../img/img2.jpeg") center top no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.content-1-1-bg2
+{
+	background: url("../img/img8.jpeg") center top no-repeat;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.content-1-1-bg3
+{
+    background: url("../img/img9.jpeg") center top no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.content-1-1-bg4
+{
+    background: url("../img/img10.jpeg") center top no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+#promise
+{
+	background-color: #ee6e73;
+	text-align: center;
+	width: 100%;
+	padding: 10px 0 10px 0;
+
+}
+
+.margin-0
+{
+margin-top: 0px;
+
+}
+
+.align-center
+{
+    margin: 0 auto;
+    max-width: 250px;
+    width: 100%;
+}
+
+.looks-good
+{
+    width: 100%;
+    margin: 0;
+    background-color: #84DCCF;
+}
+
+#looks-good-max
+{
+max-width: 40%;
+margin: 0 auto;
+text-align: center;
+
+
+}
+
+.red-btn
+{
+    background: #ee6e73;
+}
+.red-btn:hover
+{
+    color: #84DCCF;
+}
+
+#promise-width
+{
+    max-width: 50%;
+    margin: 0 auto;
+}
+
+.font-salmon
+
+{
+    color: #ee6e73;
+}
